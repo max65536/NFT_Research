@@ -1,4 +1,3 @@
-from tkinter import W
 import requests
 from config import API_key_mnemonic, API_key_NFTscan, END_TIME
 from IPython import embed
@@ -11,12 +10,12 @@ class Collection(object):
         self.details = details
         
 
-def collection_price(contract_address, API_key=API_key_mnemonic):
+def collection_price(contract_address, endtime=END_TIME, API_key=API_key_mnemonic):
     url = "https://ethereum.rest.mnemonichq.com/pricing/v1beta1/prices/by_contract/" + contract_address
 
     query = {
     "duration": "DURATION_365_DAYS",
-    "timestampLt": END_TIME,
+    "timestampLt": endtime,
     "groupByPeriod": "GROUP_BY_PERIOD_1_DAY"
     }
 
@@ -41,5 +40,15 @@ def top100_value():
                                         ))
     return collections
 
+'''
+We also consider whether a transaction is a 
+[x] primary sale (PrimarySale)    
+and control for the changes in the number of unique wallets (ΔNumWallets), 
+the number of buyers (ΔNumBuyers), the number of sellers (ΔNumSellers), 
+the number of sales (ΔNumSales), the sales volume in USD (ΔSalesUSD), 
+ETHUSD exchange rate (ΔETHUSD), the ETH trading volume (ΔETHVol)  
+[ ] Google Index: worldwide attention to Ethereum (Adj. SVI)
+'''
 
-embed()
+if __name__=="__main__":
+    embed()

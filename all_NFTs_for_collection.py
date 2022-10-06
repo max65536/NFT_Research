@@ -1,5 +1,5 @@
 import requests
-from config import API_key_mnemonic
+from config import API_key_mnemonic, END_TIME
 from IPython import embed
 
 
@@ -34,8 +34,8 @@ def collection_price(contract_address, API_key=API_key_mnemonic):
     url = "https://ethereum.rest.mnemonichq.com/pricing/v1beta1/prices/by_contract/" + contract_address
 
     query = {
-    "duration": "DURATION_1_DAY",
-    "timestampLt": "2022-08-24T14:15:22Z",
+    "duration": "DURATION_365_DAYS",
+    "timestampLt": END_TIME,
     "groupByPeriod": "GROUP_BY_PERIOD_1_DAY"
     }
 
