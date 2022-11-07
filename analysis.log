@@ -1,0 +1,1849 @@
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.10) (preloaded format=xelatex 2022.10.23)  23 OCT 2022 18:00
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**./analysis.ipynb
+(analysis.ipynb
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-09-28>
+
+analysis.ipynb:2: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2  "
+      cells": [
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no " in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+analysis.ipynb:4: Missing $ inserted.
+<inserted text> 
+                $
+l.4    "cell_
+             type": "code",
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+analysis.ipynb:9: You can't use `macro parameter character #' in math mode.
+l.9     "#
+           Startup steps\n",
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:9: Undefined control sequence.
+l.9     "# Startup steps\n
+                          ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:10: Undefined control sequence.
+l.10 ...s pd, numpy as np, statsmodels.api as sm\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:11: Undefined control sequence.
+l.11 ....cm as cm, matplotlib.font_manager as fm\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:12: Undefined control sequence.
+l.12     "import matplotlib.mlab as mlab\n
+                                          ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:13: Undefined control sequence.
+l.13     "import time, requests\n
+                                 ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:14: Undefined control sequence.
+l.14 ...m scipy.stats import pearsonr, ttest_rel\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:15: Undefined control sequence.
+l.15     "import seaborn as sns\n
+                                 ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:16: Undefined control sequence.
+l.16     "sns.set()\n
+                     ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:20: Extra }, or forgotten $.
+l.20   }
+        ,
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+analysis.ipynb:25: You can't use `macro parameter character #' in math mode.
+l.25     "#
+            Questions"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:32: Undefined control sequence.
+l.32 ...e, close price, high price or low price?\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:33: Undefined control sequence.
+l.33 ...ich variable is better? Price or Volume?\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:34: Undefined control sequence.
+l.34 .... When should I use log in linear model?\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:35: Undefined control sequence.
+l.35     "4. Absolute value or diffencial?\n
+                                            ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:36: Undefined control sequence.
+l.36 ...How to solve multicollinearity problems?\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:44: You can't use `macro parameter character #' in math mode.
+l.44     "#
+            Data overview"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:51: You can't use `macro parameter character #' in math mode.
+l.51     "#
+           ## NFT market"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:51: You can't use `macro parameter character #' in math mode.
+l.51     "##
+            # NFT market"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:51: You can't use `macro parameter character #' in math mode.
+l.51     "###
+              NFT market"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:58: Undefined control sequence.
+l.58     "[x] primary sale (PrimarySale),  \n
+                                             ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:59: Undefined control sequence.
+l.59     "[x] secondary sale,  \n
+                                 ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:60: Undefined control sequence.
+l.60     "[x] primary sale USD,  \n
+                                   ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:61: Undefined control sequence.
+l.61     "[x] secondary sale USD,  \n
+                                     ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:62: Undefined control sequence.
+l.62 ...mber of unique wallets (ΔNumWallets),   \n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:63: Undefined control sequence.
+l.63 ...x] the number of buyers (ΔNumBuyers),   \n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:64: Undefined control sequence.
+l.64 ... the number of sellers (ΔNumSellers),   \n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:65: Undefined control sequence.
+l.65 ..."[x] the number of sales (ΔNumSales),   \n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:73: You can't use `macro parameter character #' in math mode.
+l.73     "#
+           ## External enviroment"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:73: You can't use `macro parameter character #' in math mode.
+l.73     "##
+            # External enviroment"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:73: You can't use `macro parameter character #' in math mode.
+l.73     "###
+              External enviroment"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:80: Undefined control sequence.
+l.80     "<!--\n
+                ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:81: Undefined control sequence.
+l.81     "[ ] ETHUSD exchange rate (ΔETHUSD),   \n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:82: Undefined control sequence.
+l.82 ...[ ] the ETH trading volume (ΔETHVol)    \n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:83: Undefined control sequence.
+l.83     "-->\n
+               ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:84: Undefined control sequence.
+l.84     "[x] ETH price in USD   \n
+                                   ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:85: Undefined control sequence.
+l.85     "[x] BTC price in USD  \n
+                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 86.
+
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 8
+6.
+(C:\MyPrograms\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+
+LaTeX Warning: Command \" invalid in math mode on input line 86.
+
+LaTeX Font Info:    Trying to load font information for +lmr on input line 86.
+LaTeX Font Info:    No file lmr.fd. on input line 86.
+LaTeX Font Info:    Trying to load font information for +cmr on input line 86.
+LaTeX Font Info:    No file cmr.fd. on input line 86.
+
+LaTeX Font Warning: Font shape `/lmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 86.
+
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 86.
+
+analysis.ipynb:86: Corrupted NFSS tables.
+wrong@fontshape ...message {Corrupted NFSS tables}
+                                                  error@fontshape else let f...
+l.86     "[x] Google Search Index of keywords: \"m
+                                                  etaverse\", \"NFT\", \"BAY...
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 86.
+
+analysis.ipynb:86: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.86     "[x] Google Search Index of keywords: \"m
+                                                  etaverse\", \"NFT\", \"BAY...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+analysis.ipynb:86: Missing { inserted.
+<to be read again> 
+                   \edef 
+l.86     "[x] Google Search Index of keywords: \"m
+                                                  etaverse\", \"NFT\", \"BAY...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+
+LaTeX Font Warning: Font shape `/lmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 86.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 86.
+
+analysis.ipynb:86: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.86 ...e Search Index of keywords: \"metaverse\",
+                                                   \"NFT\", \"BAYC\", \"cryp...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 86.
+
+analysis.ipynb:86: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.86 ...arch Index of keywords: \"metaverse\", \"N
+                                                  FT\", \"BAYC\", \"cryptopu...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 86.
+
+analysis.ipynb:86: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.86 ...Index of keywords: \"metaverse\", \"NFT\",
+                                                   \"BAYC\", \"cryptopunks\"\n"
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 86.
+
+analysis.ipynb:86: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.86 ...x of keywords: \"metaverse\", \"NFT\", \"B
+                                                  AYC\", \"cryptopunks\"\n"
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 86.
+
+analysis.ipynb:86: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.86 ...eywords: \"metaverse\", \"NFT\", \"BAYC\",
+                                                   \"cryptopunks\"\n"
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 86.
+
+analysis.ipynb:86: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.86 ...rds: \"metaverse\", \"NFT\", \"BAYC\", \"c
+                                                  ryptopunks\"\n"
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 86.
+
+analysis.ipynb:86: Undefined control sequence.
+<argument> \n 
+              
+l.86 ...se\", \"NFT\", \"BAYC\", \"cryptopunks\"\n
+                                                  "
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:86: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.86 ...se\", \"NFT\", \"BAYC\", \"cryptopunks\"\n
+                                                  "
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+analysis.ipynb:86: Undefined control sequence.
+<argument> \n 
+              
+l.86 ...se\", \"NFT\", \"BAYC\", \"cryptopunks\"\n
+                                                  "
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:86: Missing { inserted.
+<to be read again> 
+                   \egroup 
+l.86 ...se\", \"NFT\", \"BAYC\", \"cryptopunks\"\n
+                                                  "
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+analysis.ipynb:93: You can't use `macro parameter character #' in math mode.
+l.93     "#
+           ## Others"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:93: You can't use `macro parameter character #' in math mode.
+l.93     "##
+            # Others"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:93: You can't use `macro parameter character #' in math mode.
+l.93     "###
+              Others"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:107: You can't use `macro parameter character #' in math mode.
+l.107     "#
+             Load data"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:114: You can't use `macro parameter character #' in math mode.
+l.114     "#
+            ## Basic NFT Indice"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:114: You can't use `macro parameter character #' in math mode.
+l.114     "##
+             # Basic NFT Indice"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:114: You can't use `macro parameter character #' in math mode.
+l.114     "###
+               Basic NFT Indice"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:123: Undefined control sequence.
+l.123     "def color_corr_level(val):\n
+                                       ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:124: Undefined control sequence.
+l.124     "    val = abs(val)\n
+                               ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:125: Undefined control sequence.
+l.125     "    if val>0.8:\n
+                            ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:126: Undefined control sequence.
+<recently read> \n 
+                   
+l.126     "        color = 'red'\n
+                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:127: Undefined control sequence.
+l.127     "    elif val>0.3:\n
+                              ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:128: Undefined control sequence.
+<recently read> \n 
+                   
+l.128     "        color = 'orange'\n
+                                     ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:129: Undefined control sequence.
+l.129     "    else:\n
+                      ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:130: Undefined control sequence.
+<recently read> \n 
+                   
+l.130     "        color = 'black'\n
+                                    ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:140: Undefined control sequence.
+l.140     "def load_month(date):\n
+                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:150: Undefined control sequence.
+l.150 ...nfungible/Data_NFT_all_with_delta.csv')\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 151.
+
+analysis.ipynb:151: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.151     "df_NFT[\"D
+                     ateTime\"] = pd.to_datetime(df_NFT[\"DateTime\"])"
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 151.
+
+analysis.ipynb:151: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.151     "df_NFT[\"DateTime\"]
+                                = pd.to_datetime(df_NFT[\"DateTime\"])"
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 151.
+
+analysis.ipynb:151: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.151 ...\"DateTime\"] = pd.to_datetime(df_NFT[\"D
+                                                  ateTime\"])"
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 151.
+
+analysis.ipynb:151: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.151 ...\"] = pd.to_datetime(df_NFT[\"DateTime\"]
+                                                  )"
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 169.
+
+analysis.ipynb:169: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.169 ... = df_NFT_recent_year.rename(columns={\"A
+                                                  verage USD\":\"Average NFT...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 169.
+
+analysis.ipynb:169: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.169 ...ent_year.rename(columns={\"Average USD\":
+                                                  \"Average NFT in USD\", \"...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 169.
+
+analysis.ipynb:169: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.169 ..._year.rename(columns={\"Average USD\":\"A
+                                                  verage NFT in USD\", \"ΔAv...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 169.
+
+analysis.ipynb:169: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.169 ...={\"Average USD\":\"Average NFT in USD\",
+                                                   \"ΔAverage USD\":\"ΔAvera...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 169.
+
+Missing character: There is no Δ in font rm-lmr10!
+analysis.ipynb:169: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.169 ...Average USD\":\"Average NFT in USD\", \"Δ
+                                                  Average USD\":\"ΔAverage N...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 169.
+
+analysis.ipynb:169: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.169 ...\"Average NFT in USD\", \"ΔAverage USD\":
+                                                  \"ΔAverage NFT in USD\"})"
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 169.
+
+Missing character: There is no Δ in font rm-lmr10!
+analysis.ipynb:169: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.169 ...verage NFT in USD\", \"ΔAverage USD\":\"Δ
+                                                  Average NFT in USD\"})"
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 169.
+
+analysis.ipynb:169: Argument of \OT1\" has an extra }.
+<inserted text> 
+                \par 
+l.169 ...\"ΔAverage USD\":\"ΔAverage NFT in USD\"}
+                                                  )"
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+analysis.ipynb:169: Paragraph ended before \OT1\" was complete.
+<to be read again> 
+                   \par 
+l.169 ...\"ΔAverage USD\":\"ΔAverage NFT in USD\"}
+                                                  )"
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+analysis.ipynb:169: Missing $ inserted.
+<inserted text> 
+                $
+l.169 ...\"ΔAverage USD\":\"ΔAverage NFT in USD\"}
+                                                  )"
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+analysis.ipynb:169: Missing } inserted.
+<inserted text> 
+                }
+l.169 ...\"ΔAverage USD\":\"ΔAverage NFT in USD\"}
+                                                  )"
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+analysis.ipynb:169: Missing } inserted.
+<inserted text> 
+                }
+l.169 ...\"ΔAverage USD\":\"ΔAverage NFT in USD\"}
+                                                  )"
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+analysis.ipynb:169: Missing } inserted.
+<inserted text> 
+                }
+l.169 ...\"ΔAverage USD\":\"ΔAverage NFT in USD\"}
+                                                  )"
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+analysis.ipynb:169: Missing } inserted.
+<inserted text> 
+                }
+l.169 ...\"ΔAverage USD\":\"ΔAverage NFT in USD\"}
+                                                  )"
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no Δ in font cmmi10!
+Missing character: There is no Δ in font cmmi10!
+Missing character: There is no Δ in font cmmi10!
+Missing character: There is no Δ in font cmmi10!
+Missing character: There is no Δ in font cmmi10!
+Missing character: There is no Δ in font cmmi10!
+Missing character: There is no Δ in font cmmi10!
+Missing character: There is no Δ in font cmmi10!
+Missing character: There is no Δ in font cmmi10!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--169
+[]
+ []
+
+
+Overfull \hbox (29.02547pt too wide) in paragraph at lines 2--169
+[]\OML/cmm/m/it/10 ype\/cmr/m/n/10 " :
+ []
+
+
+Overfull \hbox (116.28067pt too wide) in paragraph at lines 2--169
+\/cmr/m/n/10 "\OML/cmm/m/it/10 code\/cmr/m/n/10 "\OML/cmm/m/it/10 ; \/cmr/m/n/1
+0 "\OML/cmm/m/it/10 execution[]ount\/cmr/m/n/10 " :
+ []
+
+
+Overfull \hbox (66.72112pt too wide) in paragraph at lines 2--169
+\/cmr/m/n/10 2\OML/cmm/m/it/10 ; \/cmr/m/n/10 "\OML/cmm/m/it/10 metadata\/cmr/m
+/n/10 " :
+ []
+
+
+Overfull \hbox (53.2373pt too wide) in paragraph at lines 2--169
+[]\OML/cmm/m/it/10 ; \/cmr/m/n/10 "\OML/cmm/m/it/10 outputs\/cmr/m/n/10 " :
+ []
+
+
+Overfull \hbox (54.58801pt too wide) in paragraph at lines 2--169
+\/cmr/m/n/10 []\OML/cmm/m/it/10 ; \/cmr/m/n/10 "\OML/cmm/m/it/10 source\/cmr/m/
+n/10 " :
+ []
+
+
+Overfull \hbox (12657.81903pt too wide) in paragraph at lines 2--169
+\/cmr/m/n/10 ["\OML/cmm/m/it/10 Startupsteps\/cmr/m/n/10 "\OML/cmm/m/it/10 ; \/
+cmr/m/n/10 "\OML/cmm/m/it/10 importpandasaspd; numpyasnp; statsmodels:apiassm\/
+cmr/m/n/10 "\OML/cmm/m/it/10 ; \/cmr/m/n/10 "\OML/cmm/m/it/10 importmatplotlib:
+pyplotasplt; matplotlib:cmascm; matplotlib:font[]anagerasfm\/cmr/m/n/10 "\OML/c
+mm/m/it/10 ; \/cmr/m/n/10 "\OML/cmm/m/it/10 importmatplotlib:mlabasmlab\/cmr/m/
+n/10 "\OML/cmm/m/it/10 ; \/cmr/m/n/10 "\OML/cmm/m/it/10 importtime; requests\/c
+mr/m/n/10 "\OML/cmm/m/it/10 ; \/cmr/m/n/10 "\OML/cmm/m/it/10 fromscipy:statsimp
+ortpearsonr; ttest[]el\/cmr/m/n/10 "\OML/cmm/m/it/10 ; \/cmr/m/n/10 "\OML/cmm/m
+/it/10 importseabornassns\/cmr/m/n/10 "\OML/cmm/m/it/10 ; \/cmr/m/n/10 "\OML/cm
+m/m/it/10 sns:set\/cmr/m/n/10 ()"\OML/cmm/m/it/10 ; \/cmr/m/n/10 ""\OML/cmm/m/i
+t/10 importpickle\/cmr/m/n/10 "]\OML/cmm/m/it/10 ; []; []; []; []; []; []; []$ 
+
+ []
+
+
+analysis.ipynb:169: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.169 ..."ΔAverage USD\":\"ΔAverage NFT in USD\"})
+                                                  "
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ) in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+analysis.ipynb:173: Missing $ inserted.
+<inserted text> 
+                $
+l.173    "cell_
+               type": "code",
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+analysis.ipynb:180: Undefined control sequence.
+l.180        "0      652.282523\n
+                                 ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:181: Undefined control sequence.
+l.181        "1      650.981050\n
+                                 ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:182: Undefined control sequence.
+l.182        "2      763.237283\n
+                                 ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:183: Undefined control sequence.
+l.183        "3      833.196627\n
+                                 ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:184: Undefined control sequence.
+l.184        "4      878.274777\n
+                                 ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:185: Undefined control sequence.
+l.185        "          ...    \n
+                                 ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:186: Undefined control sequence.
+l.186        "360    372.299881\n
+                                 ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:187: Undefined control sequence.
+l.187        "361    465.658718\n
+                                 ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:188: Undefined control sequence.
+l.188        "362    707.699654\n
+                                 ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:189: Undefined control sequence.
+l.189        "363    441.048716\n
+                                 ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:190: Undefined control sequence.
+l.190        "364    504.884740\n
+                                 ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:202: Extra }, or forgotten $.
+l.202   }
+         ,
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+analysis.ipynb:211: Undefined control sequence.
+l.211        "0      652.28\n
+                             ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:212: Undefined control sequence.
+l.212        "1      650.98\n
+                             ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:213: Undefined control sequence.
+l.213        "2      763.24\n
+                             ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:214: Undefined control sequence.
+l.214        "3      833.20\n
+                             ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:215: Undefined control sequence.
+l.215        "4      878.27\n
+                             ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:216: Undefined control sequence.
+l.216        "        ...  \n
+                             ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:217: Undefined control sequence.
+l.217        "360    372.12\n
+                             ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:218: Undefined control sequence.
+l.218        "361    465.35\n
+                             ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:219: Undefined control sequence.
+l.219        "362    706.45\n
+                             ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:220: Undefined control sequence.
+l.220        "363    440.43\n
+                             ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:221: Undefined control sequence.
+l.221        "364    504.38\n
+                             ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 242.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 242.
+
+analysis.ipynb:242: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.242        "<style  type=\"t
+                              ext/css\" >\n",
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+analysis.ipynb:242: Missing { inserted.
+<to be read again> 
+                   \edef 
+l.242        "<style  type=\"t
+                              ext/css\" >\n",
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 242.
+
+analysis.ipynb:242: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.242        "<style  type=\"text/css\" >
+                                         \n",
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+analysis.ipynb:242: Undefined control sequence.
+l.242        "<style  type=\"text/css\" >\n
+                                           ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:243: You can't use `macro parameter character #' in math mode.
+l.243        "    #
+                   T_3f06e44a_52ea_11ed_b635_c0b5d78bc74erow0_col0 {\n",
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:243: Undefined control sequence.
+l.243 ..._52ea_11ed_b635_c0b5d78bc74erow0_col0 {\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:244: Undefined control sequence.
+l.244        "            color: red;\n
+                                       ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:245: You can't use `macro parameter character #' in math mode.
+l.245        "        }    #
+                            T_3f06e44a_52ea_11ed_b635_c0b5d78bc74erow0_col1 ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:245: Undefined control sequence.
+l.245 ..._52ea_11ed_b635_c0b5d78bc74erow0_col1 {\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:246: Undefined control sequence.
+l.246        "            color: black;\n
+                                         ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:247: You can't use `macro parameter character #' in math mode.
+l.247        "        }    #
+                            T_3f06e44a_52ea_11ed_b635_c0b5d78bc74erow0_col2 ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:247: Undefined control sequence.
+l.247 ..._52ea_11ed_b635_c0b5d78bc74erow0_col2 {\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:248: Undefined control sequence.
+l.248        "            color: black;\n
+                                         ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:249: You can't use `macro parameter character #' in math mode.
+l.249        "        }    #
+                            T_3f06e44a_52ea_11ed_b635_c0b5d78bc74erow0_col3 ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:249: Undefined control sequence.
+l.249 ..._52ea_11ed_b635_c0b5d78bc74erow0_col3 {\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:250: Undefined control sequence.
+l.250        "            color: orange;\n
+                                          ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:251: You can't use `macro parameter character #' in math mode.
+l.251        "        }    #
+                            T_3f06e44a_52ea_11ed_b635_c0b5d78bc74erow0_col4 ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:251: Undefined control sequence.
+l.251 ..._52ea_11ed_b635_c0b5d78bc74erow0_col4 {\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:252: Undefined control sequence.
+l.252        "            color: black;\n
+                                         ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:253: You can't use `macro parameter character #' in math mode.
+l.253        "        }    #
+                            T_3f06e44a_52ea_11ed_b635_c0b5d78bc74erow0_col5 ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:253: Undefined control sequence.
+l.253 ..._52ea_11ed_b635_c0b5d78bc74erow0_col5 {\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:254: Undefined control sequence.
+l.254        "            color: black;\n
+                                         ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:255: You can't use `macro parameter character #' in math mode.
+l.255        "        }    #
+                            T_3f06e44a_52ea_11ed_b635_c0b5d78bc74erow0_col6 ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:255: Undefined control sequence.
+l.255 ..._52ea_11ed_b635_c0b5d78bc74erow0_col6 {\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:256: Undefined control sequence.
+l.256        "            color: orange;\n
+                                          ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:257: You can't use `macro parameter character #' in math mode.
+l.257        "        }    #
+                            T_3f06e44a_52ea_11ed_b635_c0b5d78bc74erow0_col7 ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:257: Undefined control sequence.
+l.257 ..._52ea_11ed_b635_c0b5d78bc74erow0_col7 {\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:258: Undefined control sequence.
+l.258        "            color: orange;\n
+                                          ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:259: You can't use `macro parameter character #' in math mode.
+l.259        "        }    #
+                            T_3f06e44a_52ea_11ed_b635_c0b5d78bc74erow0_col8 ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:259: Undefined control sequence.
+l.259 ..._52ea_11ed_b635_c0b5d78bc74erow0_col8 {\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:260: Undefined control sequence.
+l.260        "            color: black;\n
+                                         ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:261: You can't use `macro parameter character #' in math mode.
+l.261        "        }    #
+                            T_3f06e44a_52ea_11ed_b635_c0b5d78bc74erow0_col9 ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:261: Undefined control sequence.
+l.261 ..._52ea_11ed_b635_c0b5d78bc74erow0_col9 {\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:262: Undefined control sequence.
+l.262        "            color: black;\n
+                                         ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:263: You can't use `macro parameter character #' in math mode.
+l.263        "        }    #
+                            T_3f06e44a_52ea_11ed_b635_c0b5d78bc74erow0_col10...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:263: Undefined control sequence.
+l.263 ...52ea_11ed_b635_c0b5d78bc74erow0_col10 {\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:264: Undefined control sequence.
+l.264        "            color: orange;\n
+                                          ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:265: You can't use `macro parameter character #' in math mode.
+l.265        "        }    #
+                            T_3f06e44a_52ea_11ed_b635_c0b5d78bc74erow0_col11...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:265: Undefined control sequence.
+l.265 ...52ea_11ed_b635_c0b5d78bc74erow0_col11 {\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:266: Undefined control sequence.
+l.266        "            color: black;\n
+                                         ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:267: You can't use `macro parameter character #' in math mode.
+l.267        "        }    #
+                            T_3f06e44a_52ea_11ed_b635_c0b5d78bc74erow0_col12...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:267: Undefined control sequence.
+l.267 ...52ea_11ed_b635_c0b5d78bc74erow0_col12 {\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:268: Undefined control sequence.
+l.268        "            color: black;\n
+                                         ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:269: You can't use `macro parameter character #' in math mode.
+l.269        "        }    #
+                            T_3f06e44a_52ea_11ed_b635_c0b5d78bc74erow0_col13...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:269: Undefined control sequence.
+l.269 ...52ea_11ed_b635_c0b5d78bc74erow0_col13 {\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:270: Undefined control sequence.
+l.270        "            color: black;\n
+                                         ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:271: You can't use `macro parameter character #' in math mode.
+l.271        "        }    #
+                            T_3f06e44a_52ea_11ed_b635_c0b5d78bc74erow0_col14...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:271: Undefined control sequence.
+l.271 ...52ea_11ed_b635_c0b5d78bc74erow0_col14 {\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:272: Undefined control sequence.
+l.272        "            color: black;\n
+                                         ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:273: You can't use `macro parameter character #' in math mode.
+l.273        "        }    #
+                            T_3f06e44a_52ea_11ed_b635_c0b5d78bc74erow0_col15...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:273: Undefined control sequence.
+l.273 ...52ea_11ed_b635_c0b5d78bc74erow0_col15 {\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:274: Undefined control sequence.
+l.274        "            color: black;\n
+                                         ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:275: You can't use `macro parameter character #' in math mode.
+l.275        "        }    #
+                            T_3f06e44a_52ea_11ed_b635_c0b5d78bc74erow0_col16...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:275: Undefined control sequence.
+l.275 ...52ea_11ed_b635_c0b5d78bc74erow0_col16 {\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:276: Undefined control sequence.
+l.276        "            color: black;\n
+                                         ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:277: You can't use `macro parameter character #' in math mode.
+l.277        "        }    #
+                            T_3f06e44a_52ea_11ed_b635_c0b5d78bc74erow0_col17...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:277: Undefined control sequence.
+l.277 ...52ea_11ed_b635_c0b5d78bc74erow0_col17 {\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:278: Undefined control sequence.
+l.278        "            color: black;\n
+                                         ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:279: You can't use `macro parameter character #' in math mode.
+l.279        "        }    #
+                            T_3f06e44a_52ea_11ed_b635_c0b5d78bc74erow0_col18...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:279: Undefined control sequence.
+l.279 ...52ea_11ed_b635_c0b5d78bc74erow0_col18 {\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:280: Undefined control sequence.
+l.280        "            color: black;\n
+                                         ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:281: You can't use `macro parameter character #' in math mode.
+l.281        "        }    #
+                            T_3f06e44a_52ea_11ed_b635_c0b5d78bc74erow0_col19...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:281: Undefined control sequence.
+l.281 ...52ea_11ed_b635_c0b5d78bc74erow0_col19 {\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:282: Undefined control sequence.
+l.282        "            color: black;\n
+                                         ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:283: You can't use `macro parameter character #' in math mode.
+l.283        "        }    #
+                            T_3f06e44a_52ea_11ed_b635_c0b5d78bc74erow1_col0 ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:283: Undefined control sequence.
+l.283 ..._52ea_11ed_b635_c0b5d78bc74erow1_col0 {\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:284: Undefined control sequence.
+l.284        "            color: black;\n
+                                         ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:285: You can't use `macro parameter character #' in math mode.
+l.285        "        }    #
+                            T_3f06e44a_52ea_11ed_b635_c0b5d78bc74erow1_col1 ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:285: Undefined control sequence.
+l.285 ..._52ea_11ed_b635_c0b5d78bc74erow1_col1 {\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:286: Undefined control sequence.
+l.286        "            color: red;\n
+                                       ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:287: You can't use `macro parameter character #' in math mode.
+l.287        "        }    #
+                            T_3f06e44a_52ea_11ed_b635_c0b5d78bc74erow1_col2 ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:287: Undefined control sequence.
+l.287 ..._52ea_11ed_b635_c0b5d78bc74erow1_col2 {\n
+                                                  ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:288: Undefined control sequence.
+l.288        "            color: red;\n
+                                       ",
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+analysis.ipynb:289: You can't use `macro parameter character #' in math mode.
+l.289        "        }    #
+                            T_3f06e44a_52ea_11ed_b635_c0b5d78bc74erow1_col3 ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+analysis.ipynb:289: Undefined control sequence.
+l.289 ..._52ea_11ed_b635_c0b5d78bc74erow1_col3 {\n
+                                                  ",
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 79 strings out of 410532
+ 1326 string characters out of 2818170
+ 346168 words of memory out of 3000000
+ 21339 multiletter control sequences out of 15000+600000
+ 472202 words of font info for 29 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 24i,7n,32p,245b,126s stack positions out of 10000i,1000n,20000p,200000b,80000s
+
+No pages of output.

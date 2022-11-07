@@ -1,5 +1,6 @@
 import requests
 from config import API_key_mnemonic, API_key_NFTscan, END_TIME
+import pandas as pd
 from IPython import embed
 
 class Collection(object):
@@ -10,11 +11,19 @@ class Collection(object):
         self.details = details
         
 
-def collection_price(contract_address, endtime=END_TIME, API_key=API_key_mnemonic):
-    url = "https://ethereum.rest.mnemonichq.com/pricing/v1beta1/prices/by_contract/" + contract_address
+def collection_price(collection, endtime=END_TIME, API_key=API_key_mnemonic, duration="DURATION_365_DAYS"):
+    '''
+    DURATION_UNSPECIFIED: Unspecified value.
+    DURATION_1_DAY: 1 day.
+    DURATION_7_DAYS: 7 days.
+    DURATION_30_DAYS: 30 days.
+    DURATION_365_DAYS: 365 days.
+    '''
+    print(collection.name)
+    url = "https://ethereum.rest.mnemonichq.com/pricing/v1beta1/prices/by_contract/" + collection.address
 
     query = {
-    "duration": "DURATION_365_DAYS",
+    "duration": duration,
     "timestampLt": endtime,
     "groupByPeriod": "GROUP_BY_PERIOD_1_DAY"
     }
@@ -24,6 +33,7 @@ def collection_price(contract_address, endtime=END_TIME, API_key=API_key_mnemoni
     response = requests.get(url, headers=headers, params=query)
 
     data = response.json()
+    print(data['dataPoints'][0])
     return data
 
 def top100_value():
@@ -39,6 +49,19 @@ def top100_value():
                                         details=item
                                         ))
     return collections
+
+def get_all_collection_price(collection):
+    all_data = []
+    for i in range(2017, 2023):
+        data = collection_price(collection=collection, endtime="%d-11-06T00:00:00Z"%i)
+        all_data += data['dataPoints']
+    return all_data
+
+def collection_to_csv_alltime(collection):
+    data = get_all_collection_price(collection)
+    df = pd.DataFrame(data)
+    df.to_csv("price_%s_alltime.csv"%collection.name)
+    
 
 '''
 We also consider whether a transaction is a 
