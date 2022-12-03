@@ -1,0 +1,40 @@
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.10) (preloaded format=xelatex 2022.10.23)  23 OCT 2022 17:58
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**^^@
+(C:\MyPrograms\MiKTeX\tex/latex/tools\.tex
+! Interruption.
+<to be read again> 
+                   \begingroup 
+l.1 
+    %%
+? ^^A^^A^^A^^A^^A^^D
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+H for help, X to quit.
+? 
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-09-28> File ignored)
+*exit
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+<*> e
+     xit
+? X
+ 
+Here is how much of TeX's memory you used:
+ 15 strings out of 410532
+ 433 string characters out of 2818170
+ 333168 words of memory out of 3000000
+ 21283 multiletter control sequences out of 15000+600000
+ 469259 words of font info for 28 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 13i,0n,12p,81b,14s stack positions out of 10000i,1000n,20000p,200000b,80000s
+No pages of output.
