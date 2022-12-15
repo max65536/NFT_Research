@@ -2,6 +2,7 @@ import requests
 from config import API_key_mnemonic, API_key_NFTscan, END_TIME
 import pandas as pd
 from IPython import embed
+import os
 
 class Collection(object):
     def __init__(self, name, address, rank, details) -> None:
@@ -9,6 +10,16 @@ class Collection(object):
         self.address = address
         self.rank = rank
         self.details = details
+
+new_dict={
+
+    "VaynerSports":"0xbce6d2aa86934af4317ab8615f89e3f9430914cb",
+    "gmDAO":"0x36f4d96fe0d4eb33cdc2dc6c0bca15b9cdd0d648",
+    "My Curio Cards":"0x73da73ef3a6982109c4d5bdb0db9dd3e3783f313",
+    "Women Unite":"0xbee7cb80dfd21a9eaae714208f361601f68eb746",
+}        
+
+new_collections = [Collection(name, address, 0, None) for name, address in new_dict.items()]
         
 
 def collection_price(collection, endtime=END_TIME, API_key=API_key_mnemonic, duration="DURATION_365_DAYS"):
@@ -60,7 +71,7 @@ def get_all_collection_price(collection):
 def collection_to_csv_alltime(collection):
     data = get_all_collection_price(collection)
     df = pd.DataFrame(data)
-    df.to_csv("price_%s_alltime.csv"%collection.name)
+    df.to_csv("NFT_top50_prices/price_%s_alltime.csv"%collection.name)
     
 
 '''
@@ -73,5 +84,28 @@ ETHUSD exchange rate (ΔETHUSD), the ETH trading volume (ΔETHVol)
 [ ] Google Index: worldwide attention to Ethereum (Adj. SVI)
 '''
 
+def check_start(file):
+    with open(file, "r") as f:
+        lines = f.readlines()
+        for line in lines[1:]:
+            price = line.split(',')[-2]
+            if price != '':
+                # print(line)       
+                return line
+
 if __name__=="__main__":
+    print("start")
+    ranks = top100_value()
+    # embed()
+    # for x in ranks[6:10]:
+    #     print(x.name)
+    #     # collection_to_csv_alltime(x)
+    #     # if not os.path.isfile("NFT_top50_prices/price_%s_alltime.csv"%x.name):
+    #     #     print(x.name)
+
+    # for x in ranks[:50]:
+    #     line = check_start(os.path.join("NFT_top50_prices", "price_%s_alltime.csv"%x.name))
+    #     print("'"+x.name+"'", ':', "'"+line.split(',')[1].split('T')[0]+"'", ',')    
+    # for collection in new_collections:
+    #     collection_to_csv_alltime(collection)
     embed()
